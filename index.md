@@ -3,26 +3,42 @@ layout: default
 title: Tejashri Bhilare – Data Science Portfolio
 ---
 
-# 👋 Hello! I'm Tejashri Bhilare
+# 👩‍💻 Tejashri Bhilare
 
-I'm a graduate student in Data Science at Bellevue University, passionate about transforming data into actionable insights.
+MS in Data Science | Passionate about data storytelling, forecasting, and solving real-world problems with machine learning.
 
-## 📁 Projects
+---
+
+## 🧠 About Me
+
+Hi! I’m a graduate student at Bellevue University with hands-on experience in time series forecasting, recommendation systems, and visual analytics. I enjoy transforming complex data into clear, actionable insights.
+
+Technologies I use: Python, R, SQL, Power BI, Spark, Hive, Matplotlib, Scikit-learn
+
+---
+
+## 📂 Featured Projects
 
 ### 🎬 [Movie Recommendation System](https://github.com/Tejashri-Bhilare/Data-Science-Projects/blob/main/README_Movie_Recommendation.md)  
-Hybrid model using collaborative and content-based filtering (MovieLens).
+Built a hybrid model using collaborative and content-based filtering with MovieLens data. Evaluated using RMSE and Precision@10.
+
+---
 
 ### 🛍️ [Retail Sales Forecasting](https://github.com/Tejashri-Bhilare/Data-Science-Projects/blob/main/README_Retail_Sales_Forecasting.md)  
-Forecasting monthly retail sales using ARIMA and Prophet.
+Used ARIMA and Prophet to forecast monthly sales. Visualized forecasts and evaluated model performance.
 
-### 📊 [Childcare Affordability Dashboard]  
-An infographic highlighting U.S. childcare costs and policy implications. *(GitHub link coming soon)*
+---
 
-## 👩‍💻 About Me
+### 👶 [Childcare Affordability Dashboard]  
+Used Python for data storytelling to advocate for childcare policy change. *(Coming soon)*
 
-I specialize in forecasting, machine learning, and compelling data storytelling.
-I have experience in Python, R, SQL, Power BI, Spark, Hive, and more.
+---
+
+### 🔢 [Lottery Number Randomness Analysis]  
+Power BI dashboard to explore Mega Millions and Powerball trends. *(Coming soon)*
+
+---
 
 ## 📬 Contact
 
-📧 tejashri.bhilare@email.com  
+💻 [GitHub](https://github.com/Tejashri-Bhilare)
