@@ -34,8 +34,8 @@ I am a graduate student in Data Science at Bellevue University with a strong pas
 ## 📬 Contact
 
 
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/tejashri-b-41285a16/))
-- 💻 GitHub: [https://github.com/Tejashri-Bhilare](https://github.com/Tejashri-Bhilare)
+- 💼 LinkedIn: (https://www.linkedin.com/in/tejashri-b-41285a16/))
+- 💻 GitHub: (https://github.com/Tejashri-Bhilare)
 
 ---
 
