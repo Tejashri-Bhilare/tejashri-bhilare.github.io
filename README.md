@@ -16,16 +16,16 @@ I am a graduate student in Data Science at Bellevue University with a strong pas
 
 | Project | Summary | Link |
 |--------|---------|------|
-| **AI & ML Salaries Analysis** | Analyzed AI/ML salary trends across industries and geographies. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/AI_ML_Salaries_Analysis) |
-| **Netflix EDA** | Explored content trends in Netflix’s catalog using visualizations. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/Netflix_EDA) |
-| **Kia Thefts Analysis** | Investigated time and location-based patterns in Kia vehicle thefts. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/Kia_Thefts_Analysis) |
-| **Lottery Numbers Prediction** | Built predictive model exploring number frequency and patterns. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/Lottery_Numbers_Prediction) |
-| **Movie Recommendation System** | Built a hybrid recommender using content and collaborative filtering. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/Movie_Recommendation_System) |
-| **Netflix Viewership Analysis** | Analyzed viewership trends and content popularity. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/Netflix_Viewership_Analysis) |
-| **Next Word Prediction Model** | NLP model for predicting the next word in text input. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/Next_Word_Prediction_Model) |
-| **TSA Complaints Analysis** | Categorized and analyzed TSA complaint data. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/TSA_Complaints_Analysis) |
-| **Time Series Forecasting** | Forecasted future trends using ARIMA and Prophet. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/Time_Series_Forecasting) |
-| **White House Logs Analysis** | Examined visitor data to identify patterns in logs. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/White_House_Logs_Analysis) |
+| **AI & ML Salaries Analysis** | Analyzed AI/ML salary trends across industries and geographies. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/AI%20ML%20Salaries) |
+| **Netflix EDA** | Explored content trends in Netflix’s catalog using visualizations. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/EDA%20on%20NETFLIX%20dataset) |
+| **Kia Thefts Analysis** | Investigated time and location-based patterns in Kia vehicle thefts. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/Kia%20Thefts) |
+| **Lottery Numbers Prediction** | Built predictive model exploring number frequency and patterns. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/Lottery%20Numbers) |
+| **Movie Recommendation System** | Built a hybrid recommender using content and collaborative filtering. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/Movie%20Recommendation) |
+| **Netflix Viewership Analysis** | Analyzed viewership trends and content popularity. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/Netflix%20Viewership) |
+| **Next Word Prediction Model** | NLP model for predicting the next word in text input. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/Next%20word%20prediction) |
+| **TSA Complaints Analysis** | Categorized and analyzed TSA complaint data. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/TSA%20Complaints) |
+| **Time Series Forecasting** | Forecasted future trends using ARIMA and Prophet. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/Time%20Series) |
+| **White House Logs Analysis** | Examined visitor data to identify patterns in logs. | [View Project](https://github.com/Tejashri-Bhilare/Data-Science-Projects/tree/main/White%20House%20Logs) |
 
 > Full project documentation, code, and visuals are available in the linked GitHub repositories.
 
